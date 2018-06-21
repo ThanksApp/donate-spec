@@ -1,0 +1,63 @@
+{
+  "name": "alice-bob-crypto",
+  "version": "0.0.1",
+  "description": "The only encrypted messaging suite you'll ever need",
+  "donate": {
+    "version": "1",
+    "recipients": [
+      {
+        "name": "Alice Liddel",
+        "weight": 7,
+        "platforms": [
+          {
+            "platform": "Bitcoin",
+            "address": "AAAAbbbbccccddddeeeeffffggggHHiiii"
+          },
+          {
+            "platform": "PayPal",
+            "address": "alice.liddel@in.wonderland"
+          },
+          {
+            "platform": "Patreon",
+            "address": "https://www.patreon.com/AliceLiddel/overview"
+          }
+        ]
+      },
+      {
+        "name": "Bob Loblaw",
+        "weight": 3,
+        "platform": "Monero",
+        "address": "AAAAbbbbccccddddeeeeffffggggHHiiii"
+      }
+    ],
+    "tier_currency": "USD",
+    "tiers": [
+      {
+        "threshold": "5",
+        "name": "Thanks",
+        "description": "If we ever meet in person, your drink is on me!"
+      },
+      {
+        "threshold": "10",
+        "name": "Standard Supporter",
+        "description": "Five stickers — mailed to you anywhere in the world!"
+      },
+      {
+        "threshold": "50",
+        "name": "Top Supporter",
+        "description": "Special-edition stickers only available to top supporters!"
+      }
+    ]
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
