@@ -1,0 +1,50 @@
+{
+  "name": "donate-spec",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ThanksApp/donate-spec.git",
+  "author": "Dan Pastusek <dan@hexial.com>",
+  "license": "MIT",
+  "donate": {
+    "version": "1",
+    "recipients": [
+      {
+        "name": "Dan Pastusek",
+        "weight": 1,
+        "platforms": [
+          {
+            "platform": "Ethereum",
+            "address": "0xBdcD67A49d61029e142492F33E42AA8b5Eb627DC"
+          },
+          {
+            "platform": "PayPal",
+            "address": "dan@hexial.com"
+          },
+          {
+            "platform": "Patreon",
+            "address": "https://www.patreon.com/pastudan/overview"
+          }
+        ]
+      },
+      {
+        "name": "Seandon Mooy",
+        "weight": 1,
+        "platform": "PayPal",
+        "address": "seandon.mooy@gmail.com"
+      }
+    ],
+    "tier_currency": "USD",
+    "tiers": [
+      {
+        "threshold": "10",
+        "name": "Standard Supporter",
+        "description": "Five stickers — mailed to you anywhere in the world!"
+      },
+      {
+        "threshold": "50",
+        "name": "Top Supporter",
+        "description": "Your name will be listed in the Donate Spec credits!"
+      }
+    ]
+  }
+}
