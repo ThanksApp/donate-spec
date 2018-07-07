@@ -1,6 +1,6 @@
 {
   "name": "donate-spec",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": "git@github.com:ThanksApp/donate-spec.git",
   "author": "Dan Pastusek <dan@hexial.com>",
