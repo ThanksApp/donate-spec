@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "The only encrypted messaging suite you'll ever need",
   "donate": {
-    "version": "1",
+    "version": "0.0.1",
     "recipients": [
       {
         "name": "Alice Liddel",
