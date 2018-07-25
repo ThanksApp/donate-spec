@@ -7,6 +7,7 @@
     "recipients": [
       {
         "name": "Alice Liddel",
+        "email": "alice.liddel@in.wonderland",
         "weight": 7,
         "platforms": [
           {
@@ -25,6 +26,7 @@
       },
       {
         "name": "Bob Loblaw",
+        "email": "bob.loblaw@bob.law",
         "weight": 3,
         "platform": "Monero",
         "address": "AAAAbbbbccccddddeeeeffffggggHHiiii"
