@@ -13,6 +13,10 @@
         "weight": 1,
         "platforms": [
           {
+            "platform": "Thanks",
+            "address": "https://givethanks.app/u/pastudan"
+          },
+          {
             "platform": "Ethereum",
             "address": "0xBdcD67A49d61029e142492F33E42AA8b5Eb627DC"
           },
