@@ -27,7 +27,7 @@ The simplest spec in a package.json would look like this:
   "name": "alice-bob-crypto",
   "version": "0.0.1",
   "description": "The only encrypted messaging suite you'll ever need",
-  "donate": "givethanks.app/u/alice"
+  "donate": "https://givethanks.app/u/alice"
 }
 ```
 Donations would be sent to the user "alice" on [givethanks.app](https://givethanks.app)
