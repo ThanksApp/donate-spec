@@ -37,18 +37,22 @@
         "address": "seandon.mooy@gmail.com"
       }
     ],
-    "tier_currency": "USD",
-    "tiers": [
-      {
-        "threshold": "10",
-        "name": "Standard Supporter",
-        "description": "Five stickers — mailed to you anywhere in the world!"
-      },
-      {
-        "threshold": "50",
-        "name": "Top Supporter",
-        "description": "Your name will be listed in the Donate Spec credits!"
-      }
-    ]
+    "reward": {
+      "currency": "USD",
+      "tiers": [
+        {
+          "threshold": 5,
+          "name": "Backer",
+          "frequency": "any",
+          "description": "Five stickers — mailed to you anywhere in the world!"
+        },
+        {
+          "threshold": 50,
+          "name": "Gold Sponsor",
+          "frequency": "monthly",
+          "description": "Your name will be listed in the Donate Spec credits!"
+        }
+      ]
+    }
   }
 }
